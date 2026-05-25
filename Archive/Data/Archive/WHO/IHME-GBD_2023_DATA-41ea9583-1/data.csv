@@ -1,0 +1,937 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,1,Number,2020,2.6302100430726476,4.62987316014183,0.06653888872544095
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,5.511727674680143e-06,9.708428412399613e-06,1.3935628979594753e-07
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,0.006737112979932838,0.011859120774322378,0.00017043506167240853
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,1,Number,2020,2.6302100430726476,4.62987316014183,0.06653888872544095
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,5.511727674680143e-06,9.708428412399613e-06,1.3935628979594753e-07
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,0.006737112979932838,0.011859120774322378,0.00017043506167240853
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,1,Number,2020,47.23723507464696,81.73061534691193,22.127797393298454
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,1.3960663711414884e-05,2.4154810755875616e-05,6.539089205562971e-06
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,0.014251146390973806,0.024657560123758294,0.0066758030918485445
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,1,Number,2020,6.085002244506141,10.299450714995375,1.66797493415157
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,3.76946717832553e-05,6.38417713404272e-05,1.0328416786502848e-05
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,0.02381499912100738,0.04030917325395017,0.006527987993191921
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,1,Number,2020,6.085002244506141,10.299450714995375,1.66797493415157
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,3.76946717832553e-05,6.38417713404272e-05,1.0328416786502848e-05
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,0.02381499912100738,0.04030917325395017,0.006527987993191921
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,1,Number,2020,5.130068846026835,32.39043251172248,1.8694221122868206
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,3.7434487743078903e-06,2.3639739575631526e-05,1.364127256555316e-06
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,0.004073186431601342,0.02571744633069137,0.0014842890049320725
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,1,Number,2020,5.130068846026835,32.39043251172248,1.8694221122868206
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,3.7434487743078903e-06,2.3639739575631526e-05,1.364127256555316e-06
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,0.004073186431601342,0.02571744633069137,0.0014842890049320725
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2020,0.46760653878547476,2.7966257153775524,0.13433541454092027
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,1.2515693781078776e-06,7.493929393122229e-06,3.595390819650297e-07
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,0.001004310508208166,0.006006504102303417,0.00028852134702470744
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,1,Number,2020,0.46760653878547476,2.7966257153775524,0.13433541454092027
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,1.2515693781078776e-06,7.493929393122229e-06,3.595390819650297e-07
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,0.001004310508208166,0.006006504102303417,0.00028852134702470744
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,1,Number,2020,14.96918519726816,31.445538377956613,7.348041453403954
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,2.286342841191328e-05,4.800940366142837e-05,1.1227639710339352e-05
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,0.02184239918980014,0.04588399388063264,0.010721949964099519
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,1,Number,2020,14.96918519726816,31.445538377956613,7.348041453403954
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,2.286342841191328e-05,4.800940366142837e-05,1.1227639710339352e-05
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,0.02184239918980014,0.04588399388063264,0.010721949964099519
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,1,Number,2021,6.031824086324484,10.253372769411019,1.713410860012803
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,3.518793845602877e-05,5.98398750660013e-05,1.0000702509733051e-05
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,0.02316528753151143,0.03937819223038898,0.006580373476375225
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,1,Number,2021,6.031824086324484,10.253372769411019,1.713410860012803
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,3.518793845602877e-05,5.98398750660013e-05,1.0000702509733051e-05
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,0.02316528753151143,0.03937819223038898,0.006580373476375225
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,1,Number,2020,47.23723507464696,81.73061534691193,22.127797393298454
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,1.3960663711414884e-05,2.4154810755875616e-05,6.539089205562971e-06
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,0.014251146390973806,0.024657560123758294,0.0066758030918485445
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,1,Number,2021,14.742264611730869,30.925068280341794,6.943748254586439
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,2.30857677532402e-05,4.8395848976454757e-05,1.0867742594550978e-05
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,0.021347709608033963,0.04478140873499413,0.010054976303454121
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,1,Number,2021,14.742264611730869,30.925068280341794,6.943748254586439
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,2.30857677532402e-05,4.8395848976454757e-05,1.0867742594550978e-05
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,0.021347709608033963,0.04478140873499413,0.010054976303454121
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,1,Number,2021,1.8975691129131753,15.360949102608929,0.4165949302337503
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,1.3150805381262823e-06,1.0640634410281832e-05,2.886587040613014e-07
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,0.001511895744181713,0.012238897343334318,0.000331923668962514
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,1,Number,2021,46.99031591639111,82.00660855688137,22.416826505349206
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,1.3564219983577853e-05,2.3668460857255452e-05,6.4702173763949645e-06
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,0.01414561476910753,0.0246866587411471,0.0067481945142654
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,1,Number,2021,46.99031591639111,82.00660855688137,22.416826505349206
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,1.3564219983577853e-05,2.3668460857255452e-05,6.4702173763949645e-06
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,0.01414561476910753,0.0246866587411471,0.0067481945142654
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,1,Number,2021,2.412609160376135,4.436171503182482,0.07024477796979944
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,4.643783519626568e-06,8.54079455380908e-06,1.3516326258754078e-07
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,0.006212436682575214,0.011423082954832632,0.00018087937432472424
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,1,Number,2021,2.412609160376135,4.436171503182482,0.07024477796979944
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,4.643783519626568e-06,8.54079455380908e-06,1.3516326258754078e-07
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,0.006212436682575214,0.011423082954832632,0.00018087937432472424
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2021,0.2811925234239328,2.2661841160011207,0.03657133089209786
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,6.465265457789684e-07,5.210519213827101e-06,8.410567982003577e-08
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,0.0006000882311350032,0.004836225376971059,7.804626167889081e-05
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,1,Number,2021,0.2811925234239328,2.2661841160011207,0.03657133089209786
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,6.465265457789684e-07,5.210519213827101e-06,8.410567982003577e-08
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,0.0006000882311350032,0.004836225376971059,7.804626167889081e-05
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,1,Number,2022,6.264014352907846,10.71119017118577,1.7864992605211123
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,3.281148322312353e-05,5.6320007493574727e-05,9.346871912924871e-06
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,0.02363957267798287,0.04042263383414807,0.006742015060780752
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,1,Number,2022,6.264014352907846,10.71119017118577,1.7864992605211123
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,3.281148322312353e-05,5.6320007493574727e-05,9.346871912924871e-06
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,0.02363957267798287,0.04042263383414807,0.006742015060780752
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,1,Number,2022,16.462461012612955,33.842195544498146,7.544828663729028
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,2.4338863426884955e-05,5.002741138323101e-05,1.1109569624253231e-05
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,0.023652152579718647,0.04862218182554085,0.010839900462368931
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,1,Number,2022,16.462461012612955,33.842195544498146,7.544828663729028
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,2.4338863426884955e-05,5.002741138323101e-05,1.1109569624253231e-05
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,0.023652152579718647,0.04862218182554085,0.010839900462368931
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2022,0.3071390164621301,2.4646499411147182,0.03708371867750122
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,7.739945587258912e-07,6.225378429857061e-06,9.339868305332044e-08
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,0.0006509755262214085,0.005223780458926299,7.859826328287262e-05
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,1,Number,2022,0.3071390164621301,2.4646499411147182,0.03708371867750122
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,7.739945587258912e-07,6.225378429857061e-06,9.339868305332044e-08
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,0.0006509755262214085,0.005223780458926299,7.859826328287262e-05
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,1,Number,2023,5.916153167370369,10.451596421642622,1.6583825068059277
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,3.247147860821928e-05,5.735787157452459e-05,9.106883779380237e-06
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,0.02195239623905519,0.03878154934257248,0.006153571227011188
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,1,Number,2023,5.916153167370369,10.451596421642622,1.6583825068059277
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,3.247147860821928e-05,5.735787157452459e-05,9.106883779380237e-06
+1,All Population,1,Deaths,71,Australia,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,0.02195239623905519,0.03878154934257248,0.006153571227011188
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2023,0.28874092592546974,2.274228928796823,0.03239552414582703
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,7.728989085782816e-07,6.158560509025124e-06,8.57176591790195e-08
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,0.000608106434738862,0.004789668251003642,6.822699839544244e-05
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,1,Number,2023,0.28874092592546974,2.274228928796823,0.03239552414582703
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,7.728989085782816e-07,6.158560509025124e-06,8.57176591790195e-08
+1,All Population,1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,0.000608106434738862,0.004789668251003642,6.822699839544244e-05
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,1,Number,2023,16.58574278563843,35.40664574472343,7.706285817440354
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,2.6166655356177054e-05,5.585784547504204e-05,1.2143175851920425e-05
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,0.023736868797901992,0.05067261174121384,0.011028935980250903
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,1,Number,2023,16.58574278563843,35.40664574472343,7.706285817440354
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,2.6166655356177054e-05,5.585784547504204e-05,1.2143175851920425e-05
+1,All Population,1,Deaths,80,France,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,0.023736868797901992,0.05067261174121384,0.011028935980250903
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,1,Number,2021,1.8975691129131753,15.360949102608929,0.4165949302337503
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,1.3150805381262823e-06,1.0640634410281832e-05,2.886587040613014e-07
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,0.001511895744181713,0.012238897343334318,0.000331923668962514
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,1,Number,2022,43.636556895464615,79.36430964440895,21.278921806950915
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,1.3303998345639991e-05,2.419586326485249e-05,6.489489506605606e-06
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,0.013075765450911592,0.023781644838978377,0.006376263628281288
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,1,Number,2022,1.8383041380934655,3.450219707713837,0.08031703512772448
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,4.095352694185663e-06,7.690956172226634e-06,1.7883800484849312e-07
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,0.004751276320715868,0.008917429308258734,0.0002075872099968366
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,1,Number,2022,1.8383041380934655,3.450219707713837,0.08031703512772448
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,4.095352694185663e-06,7.690956172226634e-06,1.7883800484849312e-07
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,0.004751276320715868,0.008917429308258734,0.0002075872099968366
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,1,Number,2022,43.636556895464615,79.36430964440895,21.278921806950915
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,1.3303998345639991e-05,2.419586326485249e-05,6.489489506605606e-06
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,0.013075765450911592,0.023781644838978377,0.006376263628281288
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,1,Number,2022,1.2661791848135582,8.741268321318918,0.33303400212036066
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,8.049757218163824e-07,5.562003247868806e-06,2.1192213831555967e-07
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,0.0010119143901272329,0.0069859110846214045,0.0002661565623485423
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,1,Number,2022,1.2661791848135582,8.741268321318918,0.33303400212036066
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,8.049757218163824e-07,5.562003247868806e-06,2.1192213831555967e-07
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,0.0010119143901272329,0.0069859110846214045,0.0002661565623485423
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,1,Number,2023,1.326776153242008,9.19954495061022,0.35207896652696696
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,8.203242837483236e-07,5.685783207761052e-06,2.176033449172243e-07
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,0.0010642074708850393,0.007378957212382436,0.0002824026235351988
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,1,Number,2023,1.326776153242008,9.19954495061022,0.35207896652696696
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,8.203242837483236e-07,5.685783207761052e-06,2.176033449172243e-07
+1,All Population,1,Deaths,67,Japan,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,0.0010642074708850393,0.007378957212382436,0.0002824026235351988
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,1,Number,2023,1.8093232143813565,3.408928187667496,0.0795956274660557
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,4.416993908166332e-06,8.291425599602694e-06,1.9444795326881886e-07
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,0.0046368228125317065,0.008736192550463462,0.0002039828032265506
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,1,Number,2023,1.8093232143813565,3.408928187667496,0.0795956274660557
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,4.416993908166332e-06,8.291425599602694e-06,1.9444795326881886e-07
+1,All Population,1,Deaths,51,Poland,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,0.0046368228125317065,0.008736192550463462,0.0002039828032265506
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,1,Number,2023,41.57516663014779,75.27275163987913,20.414088130589427
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,1.344766020568287e-05,2.4345012026578323e-05,6.600841465417601e-06
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,0.012395171946465958,0.022441730847648864,0.006086232552234182
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,1,Number,2023,41.57516663014779,75.27275163987913,20.414088130589427
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,1.344766020568287e-05,2.4345012026578323e-05,6.600841465417601e-06
+1,All Population,1,Deaths,102,United States of America,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,0.012395171946465958,0.022441730847648864,0.006086232552234182
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,1,Number,2020,2392810.66469552,3013376.0231219605,1792051.0720685343
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,0.06109376513748935,0.07200712112746535,0.051425323025712184
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,1899.8505137756965,2392.568735251818,1422.8577297046293
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,421405.1353806347,524591.8850684132,319942.17720792186
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,2,Percent,2020,0.010800590976438183,0.013531843884848727,0.008369066994388105
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,334.58842973791735,416.5169342792975,254.02858601197846
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,1,Number,2020,2869085.308763379,4008765.792807212,2025336.9093392384
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,2,Percent,2020,0.022554543481547975,0.029458514185277673,0.017188413165812787
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,3,Rate,2020,865.5831502154184,1209.4168524077336,611.0301066610773
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,1,Number,2020,455251.0673592194,633797.6802166182,306250.19748429564
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2020,0.003584029176031723,0.0047537685778691295,0.0026046128854254657
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2020,137.3460913902103,191.21236687018626,92.3935617678815
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,1,Number,2020,2406256.862434795,3401681.3745991793,1653725.5387879233
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2020,0.018940316032681224,0.025790658887191762,0.014235762158739144
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2020,725.9510161137401,1026.2636915190826,498.9175320383599
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,1,Number,2020,187978.83660044908,275773.73936797713,110849.79111689338
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,0.0014753615443565586,0.002081412554537555,0.0009728171822890161
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,56.71191200256687,83.19902560572697,33.44261361020231
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2020,581465.3740074668,998015.3502793629,298348.9188334937
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2020,0.004608119975104402,0.007985624779104732,0.0023397148612227
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2020,175.42407283508166,301.09431330589985,90.00980076767661
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2020,186544.7827853434,274622.89819741173,109199.59080436872
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0014666562667570646,0.0020648005825867465,0.0009035252033485373
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2020,56.27926790688025,82.85182480177284,32.944759614492014
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,1,Number,2020,165794.682904318,262696.09387477784,93697.11660606189
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,2,Percent,2020,0.001302644333627436,0.001987784846990092,0.0008198320820708527
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,3,Rate,2020,50.01910660479476,79.25359060983173,28.267770606281818
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2020,116384.46637362601,228079.8714997839,49849.373805896605
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2020,0.0009144584349789963,0.001813753050912961,0.0004133488871014474
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2020,35.112386770836196,68.81011626614995,15.039210539811988
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,1,Number,2020,517107.08440853446,727164.6508471931,334495.39612358774
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,2,Percent,2020,0.004068577252872571,0.005459896249765754,0.0028564654377807174
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,3,Rate,2020,156.00762297095014,219.38053472411343,100.91494241208285
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,1,Number,2020,713619.4391842604,1025944.4894339198,484891.59255347156
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2020,0.018167952320186097,0.024670847267972317,0.013640483118796828
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,3,Rate,2020,566.6015611590653,814.582279373283,384.9955848284604
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,1,Number,2020,127071.26384585127,177079.12077781445,83323.64914502682
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2020,0.0032429242991380345,0.004375730921650776,0.0022716537617592306
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2020,100.89239799271262,140.59777631068386,66.15754433624976
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,1,Number,2020,66018.67929143942,97601.89439395316,38796.861494983816
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,0.0031869310748698066,0.004463661944036093,0.002090107897119319
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,96.33165252910194,142.41653843807754,56.6107323088951
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2020,98080.87048660578,163522.72833236007,52657.97353601166
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2020,0.004783414271632323,0.007821170008549129,0.0025717515487396966
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2020,143.11544000688158,238.60541918423743,76.836278217027
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2020,34170.261605747764,51850.845026234325,19275.721573293766
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.001651054874243349,0.0023546586612179293,0.000985988799567545
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2020,49.85979427583361,75.65855058017189,28.126314139807796
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,1,Number,2020,416209.15318893053,600071.7171115886,277415.7849235176
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2020,0.01061218358287824,0.014313540287776403,0.007725048997837083
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2020,330.46290924349285,476.4466227426249,220.26336195032752
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,1,Number,2020,79977.3628835883,119313.97814611335,46712.47578189477
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,0.002032608367631003,0.002872234821359928,0.0013522388297092802
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,63.50065059750364,94.73324656481338,37.08890236213503
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2020,304098.5670858938,493667.27100907057,171091.6061371062
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2020,0.007817132354946613,0.012862102152640813,0.004346312308481178
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2020,241.4490320696161,391.9633225891584,135.8437926653307
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2020,67591.2380759788,101570.52691644616,38700.74869474793
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.001720798140835583,0.002442493560239764,0.0010720397968171868
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2020,53.666280529439305,80.6452514583862,30.727728848774976
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,1,Number,2020,43935.7669124586,71556.51462736694,24870.300386298062
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,2,Percent,2020,0.0011184286616879166,0.001734606527876047,0.000683081563422758
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,3,Rate,2020,34.8842432764672,56.81464191238054,19.746590761988568
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2020,22510.06157024593,47826.745000439165,8153.735320317783
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2020,0.0005732314908557228,0.0012348497848962818,0.00021368758723106716
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2020,17.872601735831914,37.97361295732347,6.473925608095684
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,1,Number,2020,196392.67656767776,279733.33352343243,131928.17398782592
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,2,Percent,2020,0.005007914942891951,0.006727161315055826,0.0036040195293811335
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,3,Rate,2020,155.9324074336509,222.10345567910093,104.74870111135787
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,1,Number,2020,35835.92655298018,57884.43933849311,20017.481990913573
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,2,Percent,2020,0.0017318006926952954,0.0026023822321173326,0.0010645524267403335
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,3,Rate,2020,52.290261813942976,84.46251511003256,29.208659433244435
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2020,17187.335343757186,34165.76185852689,7026.016491892014
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2020,0.000830751143058971,0.0016656882346437253,0.00035993239093237304
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2020,25.07902966260431,49.85322843582585,10.252064819001076
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,1,Number,2020,99937.67415747722,141140.26527395385,64697.946319785275
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,2,Percent,2020,0.00483661864356351,0.006526795934864162,0.0034635032856059488
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,3,Rate,2020,145.82480905147474,205.94587983523635,94.40449507798922
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,1,Number,2020,1755188.5156914382,2295066.157878971,1291786.6794896265
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,0.08498817125116373,0.10193067078126311,0.06961587616335756
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,2561.0965264884085,3348.8630494425265,1884.9202511455426
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,144501.88513773627,186329.54876897053,102563.74836512023
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,2,Percent,2020,0.007032912971718924,0.009263015729304283,0.005168257841430927
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,210.85101274804816,271.88416279397313,149.65666498681614
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,1,Number,2020,513422.0938482091,708613.8569352148,354977.274232278
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,2,Percent,2020,0.02482876705482068,0.03220716583362742,0.019237696152015725
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,3,Rate,2020,749.163710576726,1033.9792400609458,517.9677600958253
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,1,Number,2020,108008.35078782459,151759.76353546252,69658.48267172636
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2020,0.005233276785514854,0.0073845701764847565,0.0035342129843712374
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2020,157.60119757020388,221.44140061118293,101.64269901272215
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,1,Number,2020,638025.4384796605,910245.7835951524,420216.78263205494
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2020,0.030872643739046062,0.041288958291213464,0.02224501176307241
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2020,930.9796182535911,1328.1919826702501,613.162479556862
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,1,Number,2020,8441746.829469977,10924606.930055445,6362869.730626693
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,0.06646892312374841,0.08005918978084645,0.054414630896134464
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,2546.816503383472,3295.87818546195,1919.633692669823
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,955878.3638328383,1164116.0749900579,690640.5194064701
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,2,Percent,2020,0.007554216625790504,0.0093215995848871,0.005681750371689779
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,288.3818765729927,351.20575060230993,208.3614574402214
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2020,40363.98524362733,58593.056337154,25675.043203467754
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2020,0.005991150383735028,0.008338703354913962,0.004151571286313217
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2020,157.9733637674865,229.31685627992871,100.48494754039923
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2020,288281.07061404444,394918.07765915303,198534.98456538585
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2020,0.04272373670128822,0.05396123007676404,0.032858111664496044
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2020,1128.2515876596426,1545.5990473650124,777.0104747590956
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,1,Number,2020,50991.71320165046,73649.6706585112,30392.0728588488
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,0.007534346591457162,0.010636776341194773,0.005031035382380072
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,199.56732245618508,288.2442391173315,118.94608404993598
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2020,44330.04855803466,80698.27315378832,20651.261258170824
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2020,0.006634774390255441,0.012131331096348041,0.0030039988963190684
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2020,173.49542777851383,315.8305004668504,80.82326825023995
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2020,20038.310645601854,30592.544828872138,12036.192304883818
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.002963130102211951,0.004125215524881136,0.001988032582612406
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2020,78.42435076212723,119.73067534473837,47.1062947297808
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,1,Number,2020,13379.747904049796,21604.069782861967,7634.440150511054
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2020,0.001980016180566073,0.0029796706019455475,0.0012662707566487145
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2020,52.36459606270974,84.55229467722191,29.879066295818646
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2020,18216.403140438833,29691.282928723344,10266.169529986879
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2020,0.002693345166092303,0.004182629189115423,0.0016263786147909885
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2020,71.29391368247164,116.20338800820214,40.17891999193388
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,1,Number,2020,42376.38328336426,59201.91300517899,29680.739948493236
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2020,0.006283243841193739,0.008126712205688542,0.004831879337493325
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2020,165.84932759161177,231.69975121261774,116.16212572844876
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,1,Number,2021,2483667.330059022,3159293.9432226433,1868190.2267787328
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,0.06198826454390979,0.07313512937548143,0.05212743228212597
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,1978.8718317166276,2517.1800251556506,1488.4879997084302
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,419720.895653894,527087.409705121,317604.0374473855
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,2,Percent,2021,0.010515644967642018,0.01318818290483768,0.008073631840754434
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,3,Rate,2021,334.4142943542391,419.95899180795607,253.0522810915938
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2020,1206765.2674943104,1625932.1888001317,851792.8472472952
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,0.08667930745759651,0.10777332747010587,0.06801432514512949
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,2591.852205987206,3492.1256385489196,1829.4536888404714
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,83337.82981118272,109109.40890736546,57531.838331768624
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,2,Percent,2020,0.006014322834068329,0.007656283421175785,0.0043268287155240346
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,178.9903503659785,234.3417313937969,123.56505951178842
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,1,Number,2021,179094.69196301774,259818.8596626527,119697.86616407405
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2021,0.011203317932661432,0.01556859888801094,0.007880206745966793
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2021,461.1664633786353,669.0301276736761,308.2204224358246
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,1,Number,2021,18701.573209966868,28315.307936989666,10842.07954006541
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,0.0011669313145870593,0.0016672266391524139,0.0007485595762331575
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,48.15630369792298,72.91154348379543,27.918211435290896
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2021,42696.9920714585,84764.71334039514,17653.377555143674
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2021,0.002687588852504626,0.00538144671568277,0.0010841293105849402
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2021,109.94418994040385,218.2680158860648,45.45721374854869
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2021,7036.838305446716,10409.19410531573,3911.091003524534
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0004394592813312449,0.0006264309565532347,0.0002568735640946749
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2021,18.1197655783136,26.803537165475827,10.071007612106419
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,1,Number,2021,17313.77766092115,27353.498692911326,9744.232701668068
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,2,Percent,2021,0.0010818655016519654,0.001602158958954528,0.0006595700349319035
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,3,Rate,2021,44.58274851194242,70.43489739967767,25.09127034482204
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2021,23947.669031065758,42537.05984490445,12081.13374756492
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2021,0.0014956821180941737,0.0025114804018733284,0.0007831697880468962
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2021,61.66493106059874,109.53236657204049,31.10875963381015
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,1,Number,2021,54036.397306928375,77013.2329256938,36435.80275057447
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,2,Percent,2021,0.0033805657892272303,0.0045489106319800245,0.002312033961603645
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,3,Rate,2021,139.14300846450968,198.30805632715868,93.82171023981945
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,1,Number,2020,177219.6558671177,257473.93418189776,118236.0723742846
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2020,0.011773400291255667,0.016129237974234288,0.00827226049170332
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2020,453.93669109665524,659.5028364901295,302.8540553204289
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,1,Number,2020,18752.92698218165,28606.143615888373,10875.438935832735
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,0.0012426834844032606,0.0017712846539533285,0.000795443213650018
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,48.034410071598664,73.27278745969771,27.856733727421926
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2020,42732.62938106241,85947.24298606631,17407.820344291955
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2020,0.00285734582922427,0.005707310261276882,0.001150643367210325
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2020,109.45686745743409,220.1483063437895,44.58900638097402
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2020,7095.026245766471,10637.863678607857,3931.914566745877
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0004705989199034387,0.0006676060437977112,0.0002761277192825761
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2020,18.17345102882993,27.24820006549019,10.07134496097694
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,1,Number,2020,17178.613304680173,26986.7794452998,9788.188286995719
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,2,Percent,2020,0.0011400596376879941,0.001680846362718065,0.0006975274266973091
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,3,Rate,2020,44.00190736744556,69.12489083005613,25.071811482138735
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2020,24262.065121627435,42821.72678399872,12288.567806670855
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2020,0.0016094193885220365,0.002689434447408265,0.0008487640764984141
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2020,62.14571124515209,109.68508469482983,31.476371970046635
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,1,Number,2020,54265.762580922776,77658.1130045945,36428.9304642343
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,2,Percent,2020,0.003605667439871615,0.004854726282902384,0.0024613868937101626
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,3,Rate,2020,138.99824252164893,198.91623579580943,93.31035022167046
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2021,1244942.1151403375,1677997.8713988774,875294.3556649303
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,0.07942097292626396,0.09949052332578581,0.061429704240146016
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,2656.8100127389407,3580.9870128657535,1867.9509512474997
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,84056.34259045053,109850.72701538325,58606.70421493745
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,2,Percent,2021,0.005385725751359081,0.006952695765492167,0.0038897583078407747
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,3,Rate,2021,179.38322586456096,234.4305874881765,125.07158098215929
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,1,Number,2020,371120.7960002635,554169.4429426122,237087.48868971813
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2020,0.026602911848184398,0.03758563994764295,0.01872296837878885
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,3,Rate,2020,797.0814869392535,1190.2275710700978,509.2089962518827
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,1,Number,2020,84361.84224554448,122895.31227878308,50354.72723327953
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2020,0.006066190281898482,0.008621534954993484,0.003961830412749846
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2020,181.18969182736274,263.95065785795174,108.15028769633932
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,1,Number,2020,430119.72312373226,622435.0463289771,278758.6146932681
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2020,0.03088209337402241,0.04262223256283019,0.021612106941194646
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2020,923.7975132741442,1336.8462710740998,598.7089203610102
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,1,Number,2020,36862.573888133236,56305.287304077545,22006.56473526366
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,0.0026420660648083186,0.0038913758351782333,0.0017192401557096185
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,79.17226823134021,120.93071207694898,47.26500247535693
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2020,80334.9229374307,141548.71215344706,41155.75007773263
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2020,0.005812352752027551,0.010264478074977405,0.002911508160201663
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2020,172.54080212759644,304.0138390884617,88.39301602499289
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2020,17968.307304857866,27359.69990947763,9928.206122286143
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.001289045528876599,0.0018947499826700923,0.0007542156869641866
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2020,38.59176111577263,58.76229659208506,21.323486540984934
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,1,Number,2020,28898.555900334843,45130.532051610324,16151.224577640605
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,2,Percent,2020,0.002073532976091364,0.003099288802955807,0.0012476023135019156
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,3,Rate,2020,62.067402731642275,96.92992681022284,34.68908840728625
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2020,12828.220594791643,25643.81173550449,5111.6796201403495
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2020,0.0009199849507243834,0.0018723275757247062,0.0003854474420565244
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2020,27.552045740045283,55.07696633877578,10.97870352804388
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,1,Number,2020,60932.495688039286,86548.50920737765,39141.411703809456
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,2,Percent,2020,0.00437680684689472,0.005933212636581746,0.0029929968458746762
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,3,Rate,2020,130.8688836340702,185.88614584493195,84.0666838884226
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,1,Number,2021,390893.42202726763,578707.0560846439,252010.26256006095
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2021,0.024890735866008543,0.03516348650637301,0.01734852618875128
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,3,Rate,2021,834.1990723309764,1235.0089874460073,537.8108594286448
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,1,Number,2021,85297.89933097173,125552.4603720186,51354.86274300369
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2021,0.005447354387586857,0.0077375770327963635,0.003548100761417536
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2021,182.03281120630902,267.939392349006,109.59554816174398
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,1,Number,2021,444900.5799314952,649961.5345675502,286497.9586892508
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2021,0.02837451827723988,0.03988485813745629,0.019794897637605422
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2021,949.4548389521829,1387.071970602888,611.4104712322834
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,1,Number,2021,36927.49738506949,55973.838447180504,21744.528118486003
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,0.0023511976998257813,0.0034490985367608483,0.0015181891553788336
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,78.80635059645674,119.45282646425488,46.40463144823788
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2021,81006.32135681913,143501.60245724345,41538.64805545096
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2021,0.005201613721294006,0.009078522424053324,0.00260824115730284
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2021,172.87422688860087,306.2443543485635,88.64692962605785
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2021,18021.405465247648,27573.06173300182,9827.294000749933
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.001148281698600338,0.0016877997682011854,0.000653163025229251
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2021,38.459178062508556,58.84320692761711,20.97226271149046
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,1,Number,2021,28989.380102025963,45137.949307796254,16464.410127594136
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,2,Percent,2021,0.0018477000910848437,0.0027737054738740615,0.0011218479004586701
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,3,Rate,2021,61.865748119120816,96.32813784433462,35.13642052016338
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2021,12921.8896801543,25384.1898942575,5159.94414271436
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2021,0.000823157519705198,0.0016626012893109269,0.0003447177048297359
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2021,27.57638726188644,54.17197238019989,11.011749941475639
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,1,Number,2021,61927.3772708356,88139.89148051039,39965.64825475671
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,2,Percent,2021,0.003950687913559393,0.005405102231067017,0.0027368756459032768
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,3,Rate,2021,132.15817345633877,188.09785881550536,85.29001722852864
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,1,Number,2020,780169.9572077119,1002237.6447453484,580015.2458934209
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,0.11569662974205949,0.13501412850441533,0.09620917937457082
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,3053.3672952894617,3922.4781963228565,2270.017662457538
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,63265.769882579094,82263.07613206611,43412.15045017674
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2020,0.009441321947751042,0.012148096382956233,0.006863566255920726
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,247.6045519134822,321.9547022427628,169.9030309718329
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,1,Number,2020,198926.52473432053,277407.06461431016,138007.86635021376
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2020,0.02945156443750853,0.03844483178017625,0.023167097676126902
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2020,778.5428536152307,1085.693765506115,540.1242405111374
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,1,Number,2022,2452018.534760103,3124700.118643656,1848133.5726340134
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,0.0587109317692643,0.06941518655553573,0.049124404832314936
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,1959.6222003505748,2497.2208142510044,1477.0049764330843
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,1,Number,2022,416717.77424469497,520349.8961521288,318296.49015311187
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,2,Percent,2022,0.010014581414854916,0.012511248827686571,0.007645112380078797
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,3,Rate,2022,333.03557461504977,415.8570557255554,254.37852918135889
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,1,Number,2020,687356.5239907446,880969.7237032206,507451.1608082157
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,2,Percent,2020,0.04569435918086635,0.05475727986705046,0.03634818047597487
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,3,Rate,2020,1760.6192979971313,2256.5469917966097,1299.8033412453929
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,92631.37862072661,116108.67490138466,68987.66324400059
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,2,Percent,2020,0.006179755794497496,0.0076856322864546816,0.004656949829792917
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,237.2692876367113,297.40486423171757,176.7074392862679
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,1,Number,2020,205971.34937042097,285217.1374257639,145582.22518533433
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2020,0.013674021629820248,0.017978860378352304,0.01037783261528822
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,3,Rate,2020,527.5822951830384,730.565257976748,372.8994577930486
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,1,Number,2020,47247.11651623852,66287.5971961212,31145.527613555787
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2020,0.0031414067656803297,0.004231507944410146,0.002130932576854894
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2020,121.02043438861507,169.79139466627484,79.77725539630893
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,1,Number,2021,690377.9901610806,883575.2521349064,510841.48829547164
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,0.043211104595660965,0.05217833419249346,0.034435504932870536
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,1777.7141948058386,2275.1945894637815,1315.4100767707166
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,92122.20817836469,114772.0322717579,68239.55763094669
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,2,Percent,2021,0.005784995146597135,0.0071532366915149975,0.004355477389570104
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,3,Rate,2021,237.21346779512308,295.5364653044813,175.71595847008467
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,1,Number,2021,208509.39086304608,288303.2998473137,146406.686411239
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2021,0.013033808898166348,0.017009053527866993,0.009819847982783519
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,3,Rate,2021,536.9089240534303,742.3771844585467,376.9952813632137
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,1,Number,2021,46918.4515708647,66191.40617760956,30463.53095317885
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2021,0.002936889760839752,0.003947553695721214,0.0019913194522175794
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2021,120.81439232495742,170.4419955633876,78.44318934144668
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,1,Number,2023,2471592.476431124,3169463.647234496,1871677.565962789
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,0.05806962502534738,0.06875826522038343,0.04847513685735814
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,1982.4649184220652,2542.2275519827326,1501.2730247814507
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,1,Number,2023,413644.7508763667,517807.7613974862,315796.5535190154
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,2,Percent,2023,0.00975378790783207,0.012208519717795829,0.007485548640703053
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,559,Schizophrenia,3,Rate,2023,331.7845539350118,415.33372966867654,253.30049135529097
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,1,Number,2021,777882.954151876,1118491.40539326,528308.9441874305
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2021,0.019360451668602854,0.02618449855369493,0.014323401740004366
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,3,Rate,2021,619.7813401632503,891.1624795166374,420.9322542691792
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,1,Number,2021,126522.50717757398,177185.12555637612,83730.96048011108
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2021,0.0031566002816547363,0.0042717935484363105,0.0021945514993557506
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2021,100.80731122952609,141.17295409057627,66.7129760621896
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,1,Number,2021,444715.34683101234,642702.5534104281,295058.7537875863
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2021,0.011085910220361364,0.01519285346002883,0.008041066975216352
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2021,354.3287228225795,512.0758177730763,235.08923659183878
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,1,Number,2021,78872.37216093397,117089.20129726738,46270.16975340333
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,0.00195975200039191,0.0027778867726713312,0.001305812239778212
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,62.84187647877702,93.29128721915188,36.865941934172234
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2021,307051.37623744004,499097.75808589923,171010.12720958228
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2021,0.007715864814910167,0.012921045217893494,0.004248646267614299
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2021,244.64440626662125,397.65812546466697,136.25299957755513
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2021,67027.50320624263,100453.55556793764,38352.0350013212
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0016682967022628042,0.002366655106292715,0.0010331996741328228
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2021,53.40442998941304,80.03677026441733,30.557136551504712
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,1,Number,2021,43572.23781467763,71383.2578080209,24442.088213594187
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,2,Percent,2021,0.0010843562713633997,0.001677410017463465,0.0006712129362213067
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,3,Rate,2021,34.71635392259825,56.87489480690703,19.474331078415837
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2021,22311.98446557002,47245.49130333439,8195.404769545743
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2021,0.0005555130923433645,0.0011946692236554327,0.0002111439412881408
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2021,17.777162438081508,37.6430332614471,6.529721372783352
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,1,Number,2021,195990.15235980204,279677.95809420897,131681.06118338704
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,2,Percent,2021,0.004885874524377153,0.006567039243690856,0.0034963676163535687
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,3,Rate,2021,156.1559340515405,222.83452639830838,104.91740966780999
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,1,Number,2022,385901.0201718587,577278.2735177283,249535.4248500152
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2022,0.026177785698283437,0.036983245069547935,0.01824596463223305
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,3,Rate,2022,817.9101521174807,1223.5307392987131,528.8857676688248
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,1,Number,2022,86370.66527191199,128217.58919690295,52218.343751047796
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2022,0.005876784189156615,0.008347101039597916,0.0038625060507319463
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2022,183.06104487512607,271.7548345362552,110.67582423524506
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,1,Number,2022,465237.77441403695,670488.2071238265,299580.21093046427
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2022,0.031615114322667406,0.04407598517117542,0.022358480008513534
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2022,986.0629512519029,1421.0874882823568,634.9547761869105
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,1,Number,2022,37144.016166238085,56906.18867404905,20858.996376119387
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,0.0025188399721753165,0.0036947959631574378,0.0015456804321860981
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,78.72606270709574,120.6116257844806,44.21026119965132
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2022,81729.72307727223,144704.10588367048,41339.510122725806
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2022,0.005595719629865415,0.009693572055678515,0.0027472541814913052
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2022,173.2246528005579,306.69770502972057,87.61833539046573
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2022,18114.617641025354,27896.27522510445,9620.70096484124
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0012297551668793364,0.0018137444019798508,0.0006980723188974471
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2022,38.39360067958035,59.12564497164333,20.390899682322008
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,1,Number,2022,29104.995229701275,45327.62649177441,16398.043075033864
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,2,Percent,2022,0.001976278205229462,0.0029506671960795225,0.0012106535785437092
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,3,Rate,2022,61.68750490761068,96.07107507127323,34.75535229203835
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2022,12989.158737659382,25823.831720786176,5145.170074359348
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2022,0.00088148576021089,0.001793272783846045,0.00037287288736104267
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2022,27.530284305197643,54.73313888001146,10.905093840683366
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,1,Number,2022,62789.00510250797,89180.48104167281,39757.95100359841
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,2,Percent,2022,0.004267650921653655,0.005777472948709009,0.0029219516184838075
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,3,Rate,2022,133.08014757728955,189.0163979929895,84.26624977241737
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,1,Number,2021,8446543.021068398,10922363.843230873,6380037.401090173
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,0.06371100354157122,0.07707465373518171,0.05194069169665863
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,2542.684410109483,3287.9870731083734,1920.5989474277776
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,958420.0056488197,1169818.9385631557,688889.1347293026
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,2,Percent,2021,0.007254471716197948,0.008936688353987646,0.005424105062408674
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2021,288.51562119813224,352.15358168614625,207.37805499846337
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,1,Number,2021,66399.78457602233,99130.01266220296,40135.78149430319
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,0.003217529088323401,0.004565432595514926,0.0021461484346618894
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,96.15098877258006,143.54638038917827,58.11909030245607
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2021,99056.28762917206,161868.68028064887,52667.98622489424
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2021,0.004853279273420505,0.007884938354824303,0.002556038908838825
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2021,143.43962198825147,234.39584570455494,76.26649671410075
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2021,34355.882030829904,52701.33067841102,19390.719869370547
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0016668990475736947,0.002381809203843212,0.00100512243526621
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2021,49.74943892530773,76.3147815420741,28.07895989959823
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,1,Number,2021,36020.83451110962,58116.1230461917,20930.436937668717
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,2,Percent,2021,0.0017484738323908424,0.002675881031744751,0.0010799565875779485
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,3,Rate,2021,52.1603929406022,84.15573529643824,30.308565304076428
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2021,17060.547325563497,34592.63290976123,7026.820243740362
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2021,0.0008280835232436279,0.001686202292477789,0.00036007179996420046
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2021,24.704726149769574,50.09226881922039,10.175269674094649
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,1,Number,2021,100383.30065351367,140114.47016500978,65707.49920276641
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,2,Percent,2021,0.004879361787681717,0.006495840516537435,0.003511304711494482
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,3,Rate,2021,145.3612188009408,202.89440596433488,95.1485167980642
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,1,Number,2021,1776128.127411759,2321859.823025844,1315251.3710186984
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,0.08637119570263131,0.10346975012128762,0.07079153217488705
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,2571.9432183082836,3362.1964167618735,1904.5652123035113
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,144734.0389255666,184530.328181212,101941.12532898685
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,2,Percent,2021,0.00707375252219569,0.009124238151407747,0.005107291651246041
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,3,Rate,2021,209.58382682415578,267.211311398732,147.61704513889495
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,1,Number,2021,522675.1619251816,712970.8744694556,366129.3216243591
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,2,Percent,2021,0.02538528998058562,0.03266901628013504,0.019746748524961708
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,3,Rate,2021,756.8659137506069,1032.4258577646706,530.1778690638783
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,1,Number,2021,108658.69945634385,154664.54338491033,69037.97319692498
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2021,0.0052872710829692336,0.00733949214070893,0.0034980786150055256
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2021,157.34450733809805,223.96381056767555,99.97124882444713
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,1,Number,2021,646783.590378456,932835.2582898153,422925.7956971596
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2021,0.0314312555642469,0.04210779026951364,0.022574878508525985
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2021,936.5825828179713,1350.803063883432,612.4226711481913
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,1,Number,2021,2842688.6312208343,3956738.738117424,1994202.3724136697
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,2,Percent,2021,0.02140803472052024,0.027906798567630595,0.01625459124585179
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,3,Rate,2021,855.7418161929174,1191.1071641016592,600.3198314732792
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,1,Number,2021,455877.52946903795,635010.0993681665,308513.18535356835
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2021,0.0034379353552683608,0.004563723909228944,0.0024981836539716747
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2021,137.23397657584275,191.1587114276341,92.87251183769035
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,1,Number,2021,2430535.048323413,3461356.8016394903,1663736.9987584346
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2021,0.01832840072809477,0.02515058570171634,0.013689045454575968
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2021,731.6701708831085,1041.9810750270592,500.8389963460243
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,1,Number,2021,187978.32065970733,274825.4201699487,110212.59346970962
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,0.0014133923852066024,0.001963620475405155,0.0009263070061551068
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,56.587593786924316,82.73139787779435,33.17757839084776
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2021,586316.9017835197,1034140.3441368864,301009.5775545573
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2021,0.004450480979541722,0.007792539979802371,0.0022284993065154494
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2021,176.50047384238346,311.30990801127933,90.61368162484095
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2021,185887.74163637531,274939.4698940873,108706.8742138891
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.001399976259517041,0.0019757935371995353,0.0008588263618146959
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2021,55.95826144617036,82.76573055742685,32.72430787908611
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,1,Number,2021,164926.90078658226,261843.61832753036,93222.45311432508
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,2,Percent,2021,0.0012413959112659427,0.0018908447039347439,0.0007767917248582507
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,3,Rate,2021,49.64836601100647,78.82345292593494,28.062993062926964
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2021,114884.51328856435,227859.9439627201,49779.945703626014
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2021,0.0008647601885498131,0.0017360067245120413,0.0003950056613309293
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2021,34.583978341579396,68.59326066975314,14.985384146033276
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,1,Number,2021,519027.42825154203,731288.8317613842,334320.9074581741
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,2,Percent,2021,0.003912155297408796,0.005293283524557161,0.002755356458098993
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,3,Rate,2021,156.24415183141778,220.14174404473098,100.64147631133824
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,1,Number,2021,801747.5713401746,1032199.8623871726,590901.6151994638
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,2,Percent,2021,0.11498111155079312,0.13495740953023835,0.09598200856523884
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,3,Rate,2021,3079.1204703556746,3964.175058818032,2269.364229299198
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,63929.04041053913,84914.28086044891,45223.911416004805
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2021,0.009223932994436876,0.011969341084268798,0.006707183287928597
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2021,245.52019116097352,326.114240652939,173.682935088667
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,1,Number,2021,204379.12397735048,286629.863097039,141073.85521599138
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2021,0.029263857194331368,0.038266443290320515,0.0230655911718815
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2021,784.9203001639155,1100.8051791189905,541.7957109635523
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,1,Number,2022,181675.0500912433,267607.1451985709,121270.94614678247
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2022,0.012481518094639437,0.01732528911179595,0.008860349664573705
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2022,469.55688434592764,691.6567644541184,313.43658694887915
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,1,Number,2022,18621.52367530404,27984.260127782592,10887.238965767761
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,0.0012757022965107438,0.0018271072415263177,0.0008238278642436248
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,48.129143954319716,72.32804939218738,28.139130856592484
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2022,42690.407629195244,86281.1985443836,17625.549780750418
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2022,0.0029532380919953154,0.0059056855058902975,0.0011844622068480906
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2022,110.33752178824216,223.00217198666354,45.55495229409118
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2022,6990.892529079168,10401.807636358935,3901.4413651385535
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.00047934837571682234,0.0006814881995028542,0.0002818778709353313
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2022,18.06864350995358,26.88448624531189,10.083655686087418
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,1,Number,2022,17410.266365932577,27491.42685667945,9774.488520208779
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,2,Percent,2022,0.0011946443080051228,0.001766753201467006,0.000727925820018295
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,3,Rate,2022,44.99853131354128,71.0542737407428,25.263118811962237
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2022,23679.86929319319,41897.00480269669,11950.45338420571
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2022,0.0016237733581773621,0.0027301893307312116,0.0008523552291518517
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2022,61.20293150570886,108.28689480861665,30.887112208256656
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2021,41011.338797636956,59431.90747254072,26355.25654592926
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2021,0.005885522175168808,0.008096980610670785,0.004019538218955507
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2021,157.50450306623608,228.24890206413843,101.21765607146996
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2021,301481.9233438572,410739.85246012965,207847.2318330494
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2021,0.04321130292962179,0.054821128331987726,0.03359464140472452
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2021,1157.8446817850106,1577.4509744841437,798.2396069801908
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,1,Number,2021,51995.13262409416,73988.95395738899,30548.461077153745
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,0.0074297398457073985,0.010321490268391601,0.0048664018246199845
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,199.68788549504382,284.1554010941148,117.32170473968011
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,1,Number,2022,688446.0739262777,884440.7222309842,508339.14577045245
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,0.04732662152706276,0.056816071541454,0.038035845551189676
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,1779.3560169690604,2285.9232993791265,1313.8520966922192
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,1,Number,2022,91815.0013915191,114246.20380302268,67970.40915792054
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,2,Percent,2022,0.006334920148391788,0.007894334266259325,0.004749350780620986
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,3,Rate,2022,237.3048251147651,295.28045529176865,175.67615110540387
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,1,Number,2022,204795.06950576534,284609.5868296221,143860.90685899707
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2022,0.014057835580459638,0.018179213014751235,0.01069961733897753
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,3,Rate,2022,529.3128292423127,735.6012329683158,371.82254343655904
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,1,Number,2022,46682.83542577908,66123.26810060415,30537.051304487723
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2022,0.0032094104486838893,0.004299623704824467,0.0021991854963447494
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2022,120.65634077961424,170.9020349051589,78.92598714267882
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,1,Number,2022,54085.15801926693,76968.33906918889,36181.14933500692
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,2,Percent,2022,0.003716230824482628,0.004947433121551305,0.002578457757261555
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,3,Rate,2022,139.78836541467518,198.93217846070795,93.51370892848568
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2021,45373.3948527526,83721.64266421978,20903.398584258095
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2021,0.006567745057926389,0.012143282708780219,0.00299880448971721
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2021,174.25702789109317,321.5339003874876,80.27973489611452
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2021,20349.950232432842,30599.49416108823,12490.149858877801
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0029101015306085714,0.004070600375791154,0.0019686456608346975
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2021,78.15421034162009,117.5176978664761,47.96855953550865
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,1,Number,2021,13614.145273920822,21839.383519438015,7753.651251632362
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2021,0.0019482968637868413,0.002856458590635435,0.0012580226495147446
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2021,52.285276435891305,83.87439545622017,29.777983922037187
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2021,16323.39619678595,27132.30989457993,8598.53050331333
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2021,0.0023341477652832673,0.003780421613380197,0.0013368812022521634
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2021,62.690184756324,104.20193810476532,33.022752090752796
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,1,Number,2021,43290.12563080499,59691.59178905402,30108.31226565597
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2021,0.006206465193921804,0.008181902076223128,0.0047411833051531965
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2021,166.25620925956537,229.24622257172646,115.6313083307205
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2022,1264075.7232727916,1713723.5408572475,894803.4777816358
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,0.08592289695746944,0.10796806585657133,0.06681405707802265
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,2679.1853689571026,3632.205691930103,1896.519600548594
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,1,Number,2022,84694.7474605797,112443.45283957921,58951.44909389443
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,2,Percent,2022,0.005783483091347837,0.0075656158211268,0.004148390030679944
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,3,Rate,2022,179.5089677352608,238.3218411179046,124.94651782589214
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,1,Number,2023,397320.61883634515,596575.7338672805,253976.10002243106
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2023,0.028297801711113093,0.04072733639636744,0.019639222507289517
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,567,Depressive disorders,3,Rate,2023,836.7820536503158,1256.425778268072,534.8895387742388
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,1,Number,2023,87416.31955003957,129692.64439800955,51674.930130479515
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2023,0.0062456641383901125,0.00886725212834201,0.004112557776709628
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2023,184.1042320176287,273.1408141881691,108.83063225729511
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,1,Number,2023,547110.4948422916,804170.9674987295,354021.5370774518
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2023,0.03903715666150164,0.054858988489482875,0.027549531342921017
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2023,1152.2488935726342,1693.6343138706309,745.5914815086178
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,1,Number,2023,37638.783491948336,55885.273877224776,21833.487651832267
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,0.0026799232016586133,0.003898546612886643,0.0017047407639701703
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,79.26963025360881,117.69787931155996,45.982689469167205
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2023,82701.45831210892,147638.2177561826,41694.99939176826
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2023,0.005948636251634946,0.010246902688587165,0.0029714170950554996
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2023,174.17443959732418,310.93531318136047,87.81227443009544
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2023,18096.69610031034,27718.714275180977,9891.619997875501
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.001290095076707329,0.0018894366215052737,0.0007755013661159524
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,38.1127729324832,58.377344532643,20.83236988805786
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,1,Number,2023,29190.460350056746,45510.09362842312,16438.395554493145
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,2,Percent,2023,0.002081258900599196,0.0030406327046813837,0.0012794563843569306
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,579,Conduct disorder,3,Rate,2023,61.47693374246855,95.84710131516198,34.62028834821373
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2023,12827.224175759286,25317.50565495584,5094.381978336305
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2023,0.0009144888909739168,0.0018905054169938438,0.0003853802154792116
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2023,27.01493574600002,53.320249115950205,10.729086817584156
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,1,Number,2023,63823.53799057975,89950.29303213576,41437.367259573504
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,2,Percent,2023,0.004555469658493969,0.006236652013867909,0.003149351893723349
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,585,Other mental disorders,3,Rate,2023,134.41635963268277,189.44093853050487,87.26968505908414
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2023,42540.80642034735,63045.02421505007,27010.715080033668
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2023,0.005812342286798902,0.008128221930837797,0.004058093672187073
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2023,157.85132880247917,233.9339961823149,100.2255863501721
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2023,354139.61506601464,487031.60415813385,242051.84247490932
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2023,0.04833427566962658,0.06279071063641105,0.03681415666048801
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2023,1314.065564893269,1807.1727443416146,898.1542238813263
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,1,Number,2023,53697.177581127486,80582.38579611997,30719.650148656812
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,0.007305673942385749,0.010168627464669115,0.004781579338128327
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,199.24800555895192,299.0078878689885,113.98790959433727
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2023,47460.894837769665,90727.28389353713,21821.038378455418
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2023,0.006542105328538156,0.012512207360566583,0.0029007801821284017
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2023,176.10774093631997,336.6514066452827,80.96884365223465
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2023,20917.855827112595,31092.260098797487,12705.463267389894
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.00284823402797481,0.004031911369806545,0.0019217885082150924
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,77.61750695043462,115.3705109294779,47.14471653384818
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,1,Number,2023,14070.135262006663,23278.38531001246,8207.51895509154
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2023,0.0019173103960506861,0.002823936060421835,0.001217018160519251
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2023,52.20844959055758,86.37645505008688,30.45470648654801
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2023,14466.754921965674,25739.83196959633,7154.86243553325
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2023,0.0019692398986103595,0.003494545339529441,0.001016468059599024
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2023,53.68014102336902,95.50986503184728,26.548733742566526
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,1,Number,2023,41280.940543783756,58184.1196180995,26828.61823187196
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2023,0.005635343148216773,0.007526078367836259,0.004003167705327329
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2023,153.17648788001512,215.8971907153709,99.54990030019349
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,1,Number,2023,856812.669809203,1100474.509090154,625731.7344816446
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,0.11699905759645625,0.13745348171555938,0.09724729421028454
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,3179.27725976282,4083.4055155581236,2321.8315324310497
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,1,Number,2023,65681.90921600467,85245.52348281609,46541.57478609643
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2023,0.009023014471584975,0.011605555029159074,0.006404456663940919
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2023,243.71838525071126,316.31086216996067,172.69652464865754
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,1,Number,2023,202556.58013307027,282006.5674086567,140141.63674084214
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2023,0.02761151842666938,0.03577923285842327,0.02161473179191323
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2023,751.603648876714,1046.4096744341623,520.0076218939636
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,1,Number,2023,208786.08178139242,309662.2614754396,140024.24155185444
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2023,0.015125949957360222,0.020940401003310332,0.010690139050592632
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2023,535.0641937538423,793.5834939698275,358.84555748492187
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,1,Number,2023,18981.282236161573,28629.912250383586,11051.555913307559
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,0.0013709343924682986,0.001984129514644581,0.0008910594886576228
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,48.64406855788345,73.37098711174723,28.322251196183064
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2023,43371.27129128468,87806.86689025714,17987.58043201847
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2023,0.003165256157796969,0.0064312754132959705,0.001259516332044603
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2023,111.14923996633306,225.02606513722878,46.09747038367053
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2023,7090.461989306373,10593.746787590362,3973.1902811933987
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0005126880352077352,0.0007320975601492759,0.0003041528846778939
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,18.17100208634977,27.14900598436141,10.182248913810568
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,1,Number,2023,17798.011170869944,28172.41376550284,9972.038409284347
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,2,Percent,2023,0.0012876653532732383,0.001884393573877637,0.0007860560270856752
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,579,Conduct disorder,3,Rate,2023,45.61165388186394,72.19853799125158,25.555729797797316
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2023,23729.027532810884,42283.76882684367,11764.741411154953
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2023,0.0017159360535433394,0.0028864932394619533,0.0008855887837875994
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2023,60.81129966651705,108.36225520002702,30.149959346778076
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,1,Number,2022,753146.0348524895,1087242.0129611203,506153.16245075985
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2022,0.017983429966500004,0.02408621135102114,0.013308462557767659
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,3,Rate,2022,601.9047854168604,868.9100655435733,404.51120570881005
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,1,Number,2022,125782.09683569882,175618.77773070545,82780.41955986373
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2022,0.0030106097871916908,0.004063057289869575,0.002107080958747187
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2022,100.5234609248157,140.35230597194217,66.1570643224011
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,1,Number,2023,54561.96346065499,77669.01046715895,36722.08274455234
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,2,Percent,2023,0.003953438960704899,0.005304717684158539,0.0027470419273227715
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,585,Other mental disorders,3,Rate,2023,139.8280610451296,199.04538708083984,94.10910645494437
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,1,Number,2022,67091.75040943275,99952.72464318009,41033.09564963078
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,0.003118628303364826,0.004255290538264765,0.0021200464750125237
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,96.39289753266576,143.60532682250914,58.95358162911835
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2022,99801.45075142392,163031.61159634774,53450.42682915354
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2022,0.004688368390627542,0.007612615989711835,0.002525327507251922
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2022,143.38798670754056,234.23281305510005,76.79396475688705
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2022,34470.58673551596,53071.769374015224,19320.18267466273
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0016042369911188654,0.002285360150393868,0.0009524911282122
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2022,49.525011865248565,76.24993528902574,27.757934135063394
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,1,Number,2022,441409.81360329606,639625.7528858603,292023.60295526066
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2022,0.010556587420220852,0.014581103681618381,0.007632282706676397
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2022,352.7691401705719,511.180811850475,233.38157002694825
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,1,Number,2022,77860.35949106413,116196.63409753144,45225.24066828383
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,0.0018561379735191775,0.002623864301613245,0.0012106938484633843
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,62.225014543331405,92.86288033944756,36.14344034248391
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2022,309633.1498525066,502813.70516979834,170752.3039326857
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2022,0.0074628183200434765,0.012540632730927958,0.004103753449763167
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2022,247.4548971852743,401.8423536866395,136.4630816627316
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2022,66370.21056545706,99481.65753278509,37968.86389494996
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0015847296355052296,0.0022404112556719783,0.0009743613845933601
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2022,53.042232847043465,79.50448247651252,30.34423580240708
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,1,Number,2022,43183.039269424844,70356.17252326131,24383.896468724382
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,2,Percent,2022,0.0010310859801648399,0.0015881902782510608,0.000639807494495991
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,3,Rate,2022,34.51133881386209,56.2277632300878,19.487301655261422
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2022,22128.371048345845,46955.121253588426,8004.0609998404625
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2022,0.0005285512699229019,0.0011443179158784067,0.00020181082306813857
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2022,17.684714266719816,37.52593902708296,6.396744317343482
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,1,Number,2022,195787.68499712663,279443.23068494734,131686.6864801764
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,2,Percent,2022,0.00468240000134122,0.006325832591085676,0.003342622080413099
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,3,Rate,2022,156.47104156704557,223.32749562249333,105.2423342886381
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,1,Number,2022,36313.426260865606,57714.00606680911,21181.787249594323
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,2,Percent,2022,0.0016905563868303553,0.002529242060508936,0.0010469789369656514
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,3,Rate,2022,52.17267928266035,82.91958756549919,30.43256190886036
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2022,16972.463486879948,34292.48328998718,6897.402135110318
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2022,0.0007899297712115256,0.0016136779861776196,0.00033995795016486047
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2022,24.38488970378258,49.269124858719444,9.909721734697836
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,1,Number,2022,101452.24781908066,141390.46877095534,65814.95263885641
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,2,Percent,2022,0.004731072181448864,0.0062358284273564815,0.0033283272506190774
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,3,Rate,2022,145.75974048678762,203.14028006665467,94.55848069426106
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,1,Number,2022,8469475.456880165,10992277.241391798,6383886.70560188
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,0.06653060835988699,0.08052762617341946,0.05433696495473274
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,2537.8921355256516,3293.8538052889216,1912.9420643249427
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,1,Number,2022,963933.9342599015,1177714.0554461812,695845.3622764326
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,2,Percent,2022,0.0075996133743208355,0.009362882249811738,0.005723808165071532
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2022,288.844375708912,352.90393772696376,208.51119782498046
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,1,Number,2022,2761974.328341919,3840805.7044018786,1933106.8664128191
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,2,Percent,2022,0.021659153326756067,0.028206586899813996,0.016484380124726236
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,3,Rate,2022,827.630112645107,1150.9036942028313,579.2586256819881
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,1,Number,2022,458013.10233472585,639669.082653315,310198.59840209526
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2022,0.003597005082477094,0.004771541074707861,0.002620484372316791
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2022,137.24437319654098,191.6778840047268,92.95151598747901
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,1,Number,2022,2517507.0962935113,3639348.515795286,1712284.48923642
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2022,0.019770540901793122,0.02741595283049104,0.01457869387895868
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2022,754.3751078023491,1090.5367190326692,513.0888401696157
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,1,Number,2022,188648.0256438979,276137.9410229535,111040.76447012475
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,0.00147691979786082,0.002051621291937291,0.0009778273912793437
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,56.52868859489559,82.74518444623388,33.273546196129345
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2022,592633.3039405996,1049719.2639204115,304187.4546276451
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2022,0.004686543659363162,0.008223602702506895,0.002334797350681496
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2022,177.58353619168062,314.55008966927613,91.15026695046832
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2022,185745.36286498213,273355.8115436309,108616.84974962902
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.001456684619627017,0.002049006395735245,0.0009009849095317369
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2022,55.658900958553986,81.91151480972162,32.547216196396754
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,1,Number,2022,164516.7268511748,260248.36954377108,92896.60040034205
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,2,Percent,2022,0.0012894772170033914,0.0019557949951619826,0.0007931364792778353
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,3,Rate,2022,49.29770555021112,77.98384843443506,27.83661783700864
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2022,113911.76573870085,226931.16681115335,49237.13414309845
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2022,0.0008928173380710819,0.001784943130017637,0.0004139523679668304
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2022,34.13384640925346,68.00029429069694,14.753987558471673
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,1,Number,2022,522591.81061074854,736649.6392171561,336920.0829206381
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,2,Percent,2022,0.004101853042614407,0.005496970318100681,0.0029056030003045004
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,3,Rate,2022,156.5954884681469,220.7382659676184,100.95865240985214
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2022,41734.61196033776,59931.57571100814,26189.94580550779
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2022,0.005653526057310701,0.007792071326759978,0.0038582805471683254
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2022,157.50097893147864,226.17394531810595,98.83743753146575
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2022,323366.1170842373,444834.60642490024,220262.88811398548
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2022,0.043735370644205004,0.05635448070904315,0.033479384859281355
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2022,1220.341524738267,1678.7477511736222,831.2433941687639
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,1,Number,2022,52936.883108291215,75465.85802887398,30925.57232649802
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,0.007139087373485302,0.009736317669786816,0.004614179878554541
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,199.7768882830565,284.79829947256655,116.70907399519187
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2022,46452.01088915536,87065.96995609291,21397.77786538022
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2022,0.006343712279297157,0.011925512921456372,0.0028316653915588163
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2022,175.3038268411506,328.57560800458333,80.75242113089561
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2022,20622.92368546367,31026.7764781781,12433.756691034287
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.002783169937946695,0.0039059073453173204,0.0018701864289999664
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2022,77.82822257881656,117.0910052559088,46.923375075220726
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,1,Number,2022,13852.310640246189,21743.575251349703,7979.285445813764
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2022,0.0018702996167035755,0.002726675931468645,0.001156273961969598
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2022,52.276812550099336,82.05741533699722,30.112781929869328
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2022,14298.687112877122,26142.439534821475,7061.0365796341675
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2022,0.0019295399208040787,0.0035253688562534346,0.001029613049087317
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2022,53.9613791031121,98.65815506573709,26.647430545664527
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,1,Number,2022,44149.959901638256,61219.13365903201,30953.046465115443
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2022,0.005974161773647272,0.00791222255325031,0.004568869766834748
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2022,166.616186845152,231.03302098023238,116.812757808801
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,1,Number,2023,722299.3931149024,939697.1027406995,539235.8177186569
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,0.052361228992098476,0.06338179450155443,0.04241547304904888
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,1851.0646836630206,2408.198230269124,1381.9205551877985
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,1,Number,2023,92297.25280346826,115609.91166411851,69040.07125031778
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,2,Percent,2023,0.006717382842560477,0.008415757240727439,0.005066209941614065
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,559,Schizophrenia,3,Rate,2023,236.53375136705878,296.2780068801861,176.93166970266586
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,1,Number,2023,208587.446911215,291123.8383897626,145632.4354337389
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2023,0.015097459462967314,0.019608446678409195,0.011537523586276131
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,567,Depressive disorders,3,Rate,2023,534.5551444639848,746.0743577421014,373.2178935727634
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,1,Number,2023,47096.59393773813,66444.43434388234,30939.13615200911
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2023,0.0034145177762159797,0.004598648162447962,0.0023361172036959234
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2023,120.69626887405776,170.279730278496,79.28892481419459
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,1,Number,2022,1815348.1182022945,2371759.048424955,1338406.170633634
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,0.08467366511549804,0.10184330751459399,0.06853069385042422
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,2608.1696196048115,3407.5832800876874,1922.9316283397607
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,1,Number,2022,145995.11616912376,188506.5169364409,105539.65171606182
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,2,Percent,2022,0.006842571955343899,0.008736916686799812,0.005013268813272477
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,3,Rate,2022,209.75592658231483,270.83343720212946,151.6322464597564
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,1,Number,2022,522888.0896969915,718952.1242035639,361309.20371370687
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,2,Percent,2022,0.024359846551638982,0.03145233024899856,0.018791955271634582
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,3,Rate,2022,751.2503063882951,1032.9418746168674,519.1046714185562
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,1,Number,2022,109758.75482336925,155804.52407048416,70695.52791279668
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2022,0.005123467248674684,0.007033475319930945,0.003451437129912214
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2022,157.69396896692857,223.84942160847842,101.57056175356286
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,1,Number,2022,680604.2320496124,972883.1962465456,445174.399733667
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2022,0.03172498733523848,0.04252316640665055,0.02268076732236168
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2022,977.8462120885894,1397.772895695097,639.5965232062293
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2023,1362900.523666199,1860850.6570996605,960747.7881769248
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,0.09727395073176916,0.12282444715657237,0.07581504311467419
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,2870.353676722323,3919.0677769123454,2023.3948834198907
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,1,Number,2023,86774.93001675847,114620.11177766822,61260.09056412152
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,2,Percent,2023,0.006223456240696361,0.007942840612839753,0.004471077096818667
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,559,Schizophrenia,3,Rate,2023,182.75342557717596,241.39711853829493,129.01757915101874
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,1,Number,2022,835687.7788347298,1081982.286652773,613793.1651847917
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,2,Percent,2022,0.11309563578888857,0.13373870498818097,0.0938066396224756
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,558,Mental disorders,3,Rate,2022,3153.7766152619,4083.259944917724,2316.3753018700177
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,1,Number,2022,64415.808246301945,81812.48243730172,45063.84356776744
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2022,0.008768626932703947,0.01139366979973648,0.006136000619590246
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2022,243.09685368817443,308.74963171899424,170.06506453405018
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,1,Number,2022,213858.46620618115,297504.50322237215,147515.13900211797
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2022,0.028898141252784847,0.037435079794652396,0.022387593501008468
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2022,807.0739417025954,1122.7431691129016,556.7028830201366
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,1,Number,2023,742766.4936632445,1077814.0005056837,496395.2684815952
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2023,0.017402918558245613,0.023648711635452138,0.012814312646400688
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,567,Depressive disorders,3,Rate,2023,595.7731827995312,864.5148684349476,398.15876396275655
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,1,Number,2023,125096.75307347902,173447.37644953988,82276.67724397729
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2023,0.00293789970584188,0.0039577894588021635,0.0020517981867935915
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2023,100.34013565811676,139.12218227014029,65.9941425602836
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,1,Number,2023,474525.3019278527,689075.392864489,314249.6385171017
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2023,0.011136906267109373,0.01517357902679182,0.007969129997410392
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2023,380.61685854214176,552.7075379652781,252.05971046106242
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,1,Number,2023,77427.00996747774,116009.24329355746,45698.82783053053
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,0.001811158606973348,0.0025909730500353473,0.0011964438300022448
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,62.10422327409025,93.05104188302737,36.65504076863593
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2023,312189.32888656814,504992.14624079235,173240.82283325653
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2023,0.007382784969535715,0.01241305004812076,0.004049448716508563
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2023,250.40713561202523,405.05432167629203,138.95650556495536
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2023,65681.3545171978,98415.81477165414,37611.9097167501
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0015389108551827474,0.0021758409347257574,0.0009441763237333841
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,52.68303021896492,78.93934864393708,30.16852180905761
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,1,Number,2023,42783.386654150534,69449.40470491664,24266.24854032
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,2,Percent,2023,0.0010023751813788807,0.0015477008802074125,0.000616430138811083
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,579,Conduct disorder,3,Rate,2023,34.31656470148016,55.70538417870535,19.463963777054182
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2023,21908.25046963067,46845.80551097078,8117.944554511503
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2023,0.0005134556730811152,0.0011199712719261457,0.000197408877629462
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2023,17.572612958735427,37.57503184134272,6.511405275133744
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,1,Number,2023,195569.84639515806,279609.9474068448,132070.0268247365
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,2,Percent,2023,0.00458942730016664,0.0062077263965407085,0.0032994244592085987
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,585,Other mental disorders,3,Rate,2023,156.8666207219689,224.27520590947853,105.93340020728834
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,1,Number,2023,67439.4352590077,100756.76945258766,39014.39018723386
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,0.0031855973630610357,0.00447958500773282,0.002104549404372336
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,96.51669191046423,144.1991623713988,55.83587500864996
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2023,101026.22657501126,165743.0700858046,53862.31641211768
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2023,0.004822574889807408,0.00785401265891622,0.002538885015866062
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2023,144.58479890539635,237.20502359380933,77.08564846023002
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2023,34769.5803702183,51138.09626641025,19378.710567894283
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0016443669054286008,0.0023452673783662427,0.0009706106756871941
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,49.760868600990555,73.18685073913842,27.734055457614353
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,1,Number,2023,36227.34906436579,58783.267282666566,20245.902598696477
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,2,Percent,2023,0.0017136512827233999,0.0026080446297650347,0.0010569515927836208
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,579,Conduct disorder,3,Rate,2023,51.84717035291627,84.12832159732247,28.975146901258462
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2023,17051.375792009443,33545.013668986365,6526.969966318119
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2023,0.0008064560158838506,0.001542967741719573,0.0003325247993885492
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2023,24.403264612852894,48.0083164544209,9.341145087122266
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,1,Number,2023,102165.11060387098,142561.2902169917,65225.582971317155
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,2,Percent,2023,0.004838686572319267,0.006472846190235446,0.003427186532060569
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,585,Other mental disorders,3,Rate,2023,146.21472534996164,204.0281635423965,93.34831278086948
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,1,Number,2023,8998336.899091683,11726365.340341404,6725945.224145431
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,0.07278715857273864,0.08800118384795623,0.05944751125384735
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,2682.7537238441632,3496.084958447558,2005.2655061480812
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,1,Number,2023,964581.1344400101,1175817.7621357483,697766.6600147338
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,2,Percent,2023,0.00783300776840415,0.009648377583769291,0.005909692340588479
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2023,287.5791003813138,350.55694350032724,208.03134251594778
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,1,Number,2023,2888184.614664923,4000962.444320002,2013478.9002328939
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,2,Percent,2023,0.0233206780900283,0.030508137410282743,0.017878581383039795
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,567,Depressive disorders,3,Rate,2023,861.0800103432318,1192.8423015083624,600.2962634158222
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,1,Number,2023,459947.0116920592,640662.8223563058,311185.23129305185
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2023,0.003719760652090423,0.0049414779425048915,0.002718975074289821
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2023,137.1280684670101,191.0064706044055,92.77640384202704
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,1,Number,2023,2903177.5257532755,4215763.599594316,1933671.3713289374
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2023,0.023477676146035832,0.032765630612111324,0.016863381240729156
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2023,865.5499794613692,1256.882868744333,576.5025393355976
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,1,Number,2023,193469.53719893668,285881.04161207384,114646.00279029165
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,0.001559508170194873,0.0021711191283340482,0.0010376506259666388
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,57.68078337045229,85.23224208671917,34.1804262674973
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2023,599782.9520215682,1052086.4935454414,304453.57028285135
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2023,0.004886076429930849,0.008604120783959123,0.0024458641743912296
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2023,178.81859348881844,313.6678466273134,90.76943423805552
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2023,185674.77973597273,273727.7606122012,108931.32672463854
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.001499430413807987,0.002105789075619761,0.0009336649580448962
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,55.356863423385235,81.60887698881712,32.47665937505726
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,1,Number,2023,164085.55452603783,259983.8435532626,92390.27681159257
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,2,Percent,2023,0.0013241581615414018,0.0020006675819502833,0.000820152786391518
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,579,Conduct disorder,3,Rate,2023,48.92027686562815,77.5112815016116,27.54512994376917
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2023,113586.29259232299,224224.9726360711,49256.84057089492
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2023,0.0009166464664119523,0.0018286763990651858,0.0004255947714287339
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2023,33.864485498477755,66.85017321134056,14.685377303411004
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,1,Number,2023,525847.4964665731,741424.7284798416,341658.64669833746
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,2,Percent,2023,0.004250216274292797,0.005669811006979905,0.0030497870855997152
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,585,Other mental disorders,3,Rate,2023,156.7755625444779,221.0475083990494,101.86171255780008
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,1,Number,2023,1924853.2275807075,2506542.823076296,1408526.2409047778
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,2,Percent,2023,0.09120550656596528,0.11061342442020794,0.07430320701191075
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,558,Mental disorders,3,Rate,2023,2754.7749358481733,3587.266418915147,2015.827871616896
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,1,Number,2023,147114.32738672837,190552.79916646951,106718.76319064177
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,2,Percent,2023,0.007007120660856911,0.00904597609383169,0.005083065676632106
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,559,Schizophrenia,3,Rate,2023,210.54429292694192,272.711741122865,152.73173549538603
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,1,Number,2023,540151.6195008706,736133.9383818518,376523.49654165126
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,2,Percent,2023,0.025561122870976803,0.032707879124661596,0.01986932287609872
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,567,Depressive disorders,3,Rate,2023,773.0439503842161,1053.5262085568559,538.8657567073473
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,1,Number,2023,110558.35653103747,155544.31391528662,70022.00970994319
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2023,0.005243318708595159,0.007300862650915781,0.0034727801923040247
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2023,158.22681187129538,222.60896116536026,100.21277183253761
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,1,Number,2023,768349.846497588,1116757.9476970874,512440.491424633
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2023,0.03638261129631289,0.049244904367199666,0.02638631048927608
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2023,1099.6323609331396,1598.2604593659553,733.3848636680591

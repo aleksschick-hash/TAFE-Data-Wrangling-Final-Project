@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  title: "Mental Health Data Analysis"
+  navbar:
+    background: "#4A7BA7"
+    pinned: true
+    left:
+      - href: index.html
+        text: Overview
+      - text: "Report 1: Clinical Survey Data"
+        href: 01_real_data.html
+        aria-label: "Report 1: Clinical Survey Data"
+      - text: "Report 2: WA Emergency Department"
+        href: 02_wa_eddc.html
+        aria-label: "Report 2: WA Emergency Department"
+      - text: "Report 3: Advanced Analysis"
+        href: 03_advanced.html
+        aria-label: "Report 3: Advanced Analysis"
+    right:
+      - icon: printer
+        href: javascript:window.print()
+        text: Print
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    smooth-scroll: true
+    anchor-sections: true
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    toc-location: left
+    number-sections: false
+    code-fold: true
+    code-tools: true
+    highlight-style: github
+    embed-resources: false
+    page-layout: article
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+execute:
+  freeze: auto
+  echo: true
+  warning: false
+  message: false
+jupyter: python3
