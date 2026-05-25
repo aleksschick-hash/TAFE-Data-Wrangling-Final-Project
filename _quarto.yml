@@ -4,7 +4,7 @@ project:
 website:
   title: "Mental Health Data Analysis"
   navbar:
-    background: "#005EB8"
+    background: "#1E8449"
     pinned: true
     left:
       - href: index.html
