@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: _site
 website:
-  title: "Mental Health Data Analysis"
+  title: "Mental Health in Western Australia — A Data Science Analysis"
   navbar:
     background: "#C2185B"
     pinned: true
@@ -33,8 +33,7 @@ format:
     toc-title: "Contents"
     toc-location: left
     number-sections: false
-    code-fold: true
-    code-tools: true
+    code-fold: false
     highlight-style: github
     embed-resources: false
     page-layout: article
@@ -43,7 +42,7 @@ format:
       body-width: 900px
 execute:
   freeze: auto
-  echo: true
+  echo: false
   warning: false
   message: false
 jupyter: python3
